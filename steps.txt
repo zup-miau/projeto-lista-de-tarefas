@@ -1,0 +1,10 @@
+git config --global user.name zup-miau
+git config --global user.email sophiavarasquim987@gmail.com
+
+npx create-expo-app zuplist
+
+cd zuplist
+npm i 
+
+instalar o router
+npx expo install expo-router react-native-safe-area-context react-native-screens expo-linking expo-constants expo-status-bar
